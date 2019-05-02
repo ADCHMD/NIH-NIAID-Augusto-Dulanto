@@ -2,7 +2,7 @@
 Data Carpentry
 # Name
 Augusto Dulanto Chiang
-Lucia Guerri
+# Lucia Guerri
 # What kind of scientist do you tell people you are at dinner parties?
 Microbiology and Infectious Diseases
 Immunologist doing genomics of Neuroscience
